@@ -9,7 +9,7 @@
 <p><a href="https://github.com/JonaOmara/AgroQA-Dataset/tree/main">AgroQA Dataset</a></p>
 
 <h2>Large Language Models</h2>
-<p>I have two Large Language Models:</p>
+<p>I have used two Large Language Models in this project:</p>
 <ol>
   <li>Mistral 7B Model: <a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">Mistral 7B Model Link</a></li>
   <li>TinyLlama-1.1B Model: <a href="https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0">TinyLlama-1.1B Model Link</a></li>
