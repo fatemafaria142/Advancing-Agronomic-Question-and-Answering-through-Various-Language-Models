@@ -15,4 +15,5 @@
   <li>Mistral-7B-Instruct-v0.2: <a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2">Model Link</a></li>
   <li>TinyLlama-1.1B: <a href="https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0">Model Link</a></li>
   <li>Starling-LM-7B-alpha: <a href="https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha">Model Link</a></li>
+  <li>OpenChat 3.5 1210: <a href="https://huggingface.co/openchat/openchat-3.5-1210">Model Link</a></li>
 </ol>
